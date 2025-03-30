@@ -10,8 +10,7 @@ An end-to-end machine learning example on Vertex AI (Google Cloud Platform), fro
 - [Usage](#usage)
 - [Pipeline Overview](#pipeline-overview)
 - [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
